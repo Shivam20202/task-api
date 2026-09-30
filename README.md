@@ -7,10 +7,6 @@
 
 ## Links
 
-### GitHub Repository
-
-https://github.com/Shivam20202/task-api
-
 ### Live API
 
 https://task-api-c5r5.onrender.com
