@@ -4,7 +4,6 @@
 
 **Stack:** Node.js, Express, Jest, Supertest
 
-
 ## Links
 
 ### Live API
